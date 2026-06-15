@@ -11,6 +11,6 @@
     "start": "npm run start --prefix backend"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2"
+    "concurrently": "^8.2.2"
   }
 }
