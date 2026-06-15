@@ -16,5 +16,8 @@
     "leaflet": "^1.9.4",
     "lucide-react": "^0.468.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+  "vite": "^6.0.7",
+  "@vitejs/plugin-react": "^4.3.4"
+}
 }
